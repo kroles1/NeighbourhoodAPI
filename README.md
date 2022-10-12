@@ -1,3 +1,5 @@
+![Neighbourhood API](./media/BikiniBottomNeighbourhoodCollaboration.png "Poodle Logo")
+
 # NeighbourhoodAPI
 Documentation for Neighbourhood API
 
